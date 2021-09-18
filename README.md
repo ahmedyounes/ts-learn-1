@@ -22,4 +22,5 @@ now run code
 
 - Question here why typescript is handy here ?
 - Run the code in index2.ts and check console
-    we executed the code and didnt know there is bugs inside it
+  we executed the code and didnt know there is bugs inside it
+- Ts will help us to catch errors while we are coding
