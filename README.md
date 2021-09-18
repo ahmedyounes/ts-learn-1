@@ -41,7 +41,7 @@ now run code and check console
   then
   `node index.js`
   we will use ts-node tool to combine both
-  will cache what is going to be sent to the browser in JS
+  and it will cache what is going to be sent to the browser in JS
   with all type annotations we will write in TS files
   So index.js is what is going to be sent to the browser
 
@@ -53,4 +53,4 @@ now run code and check console
   Note: Read carefully comments in index2.ts
 - Ts will help us to catch errors while we are coding
 
-- Lets move to index3.ts
+- Lets move to index3.ts and focus on comments inside of it
