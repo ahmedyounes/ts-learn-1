@@ -23,7 +23,7 @@ Some VisualCode settings
 
 `npm i axios`
 
-- Create index.ts file to fetch url [link](https://jsonplaceholder.typicode.com/todos/1)
+- Create `mkdir index.ts` file to fetch url [link](https://jsonplaceholder.typicode.com/todos/1)
 
 - Remember we cant execute code in ts file now we need to compile it first to give us JS code
 
@@ -44,4 +44,5 @@ now run code
 - Question here why typescript is handy here ?
 - Run the code in index2.ts and check console
   we executed the code and didnt know there is bugs inside it
+  Note: Read carefully comments in index2.ts
 - Ts will help us to catch errors while we are coding
