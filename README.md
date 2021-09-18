@@ -19,3 +19,7 @@ now run code
   we will use ts-node tool to combine both
 
 `ts-node index.ts`
+
+- Question here why typescript is handy here ?
+- Run the code in index2.ts and check console
+    we executed the code and didnt know there is bugs inside it
