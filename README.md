@@ -1,4 +1,4 @@
-# First mini project
+# Section 1
 
 - TS = JS + Type system , Type system is what we are going to learn
 - Type System :
@@ -26,10 +26,13 @@ Some VisualCode settings
 - Create `mkdir index.ts` file to fetch url [link](https://jsonplaceholder.typicode.com/todos/1)
 
 - Remember we cant execute code in ts file now we need to compile it first to give us JS code
+- before you run the below code delete index.js
 
 `tsc index.ts`
 
-now run code
+- notice index.js combiled
+
+now run code and check console
 
 `node index.js`
 
@@ -38,6 +41,9 @@ now run code
   then
   `node index.js`
   we will use ts-node tool to combine both
+  will cache what is going to be sent to the browser in JS
+  with all type annotations we will write in TS files
+  So index.js is what is going to be sent to the browser
 
 `ts-node index.ts`
 
@@ -46,3 +52,5 @@ now run code
   we executed the code and didnt know there is bugs inside it
   Note: Read carefully comments in index2.ts
 - Ts will help us to catch errors while we are coding
+
+- Lets move to index3.ts
