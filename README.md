@@ -54,3 +54,5 @@ now run code and check console
 - Ts will help us to catch errors while we are coding
 
 - Lets move to index3.ts and focus on comments inside of it
+- Lets move to index4.ts and focus on comments inside of it
+- Lets move to index5.ts and focus on comments inside of it
